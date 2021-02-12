@@ -1,0 +1,1 @@
+site has a bug for subdomain takeover
